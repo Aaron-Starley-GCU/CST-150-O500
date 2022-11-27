@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\astar\\source\\repos\\Activity1-AaronStarley\\Activity1-AaronStarley\\Activity1-AaronStarley.csproj",
+      "projectUniqueName": "C:\\Users\\astar\\source\\repos\\Aaron-Starley-GCU\\CST-150-O500\\Activity1-AaronStarley\\Activity1-AaronStarley\\Activity1-AaronStarley.csproj",
       "projectName": "Activity1-AaronStarley",
-      "projectPath": "C:\\Users\\astar\\source\\repos\\Activity1-AaronStarley\\Activity1-AaronStarley\\Activity1-AaronStarley.csproj",
+      "projectPath": "C:\\Users\\astar\\source\\repos\\Aaron-Starley-GCU\\CST-150-O500\\Activity1-AaronStarley\\Activity1-AaronStarley\\Activity1-AaronStarley.csproj",
       "packagesPath": "C:\\Users\\astar\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\astar\\source\\repos\\Activity1-AaronStarley\\Activity1-AaronStarley\\obj\\",
+      "outputPath": "C:\\Users\\astar\\source\\repos\\Aaron-Starley-GCU\\CST-150-O500\\Activity1-AaronStarley\\Activity1-AaronStarley\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\astar\\AppData\\Roaming\\NuGet\\NuGet.Config",
