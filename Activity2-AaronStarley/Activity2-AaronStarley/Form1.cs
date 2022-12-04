@@ -25,7 +25,7 @@ namespace Activity2_AaronStarley
             /* It is common to use 300 as an approximate conversion.
              * But since I'm not doing the math in my head, and I need to cite the formula, 
              * I may as well have my output be exact.
-             * TEST TEXT
+             *
              * Citation:
              * How to Convert Wavelength In Metres to Megahertz. 
              * Convert wavelength in metres to megahertz. (n.d.). Retrieved November 6, 2022,

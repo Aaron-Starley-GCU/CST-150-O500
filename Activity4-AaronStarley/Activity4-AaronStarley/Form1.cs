@@ -87,8 +87,9 @@ namespace Activity4_AaronStarley
                     }
                 }
             }
-                
-
+            for (int i =0; i<10; i++) { 
+                outputBox.Text += System.Convert.ToString(i);
+            }
             
         }
     }

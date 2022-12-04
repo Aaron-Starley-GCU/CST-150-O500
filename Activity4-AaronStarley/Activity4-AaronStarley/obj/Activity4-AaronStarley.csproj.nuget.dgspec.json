@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\astar\\Source\\Repos\\Aaron-Starley-GCU\\CST-150-O500\\Activity4-AaronStarley\\Activity4-AaronStarley\\Activity4-AaronStarley.csproj": {}
+    "C:\\Users\\astar\\source\\repos\\Aaron-Starley-GCU\\CST-150-O500\\Activity4-AaronStarley\\Activity4-AaronStarley\\Activity4-AaronStarley.csproj": {}
   },
   "projects": {
-    "C:\\Users\\astar\\Source\\Repos\\Aaron-Starley-GCU\\CST-150-O500\\Activity4-AaronStarley\\Activity4-AaronStarley\\Activity4-AaronStarley.csproj": {
+    "C:\\Users\\astar\\source\\repos\\Aaron-Starley-GCU\\CST-150-O500\\Activity4-AaronStarley\\Activity4-AaronStarley\\Activity4-AaronStarley.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\astar\\Source\\Repos\\Aaron-Starley-GCU\\CST-150-O500\\Activity4-AaronStarley\\Activity4-AaronStarley\\Activity4-AaronStarley.csproj",
+        "projectUniqueName": "C:\\Users\\astar\\source\\repos\\Aaron-Starley-GCU\\CST-150-O500\\Activity4-AaronStarley\\Activity4-AaronStarley\\Activity4-AaronStarley.csproj",
         "projectName": "Activity4-AaronStarley",
-        "projectPath": "C:\\Users\\astar\\Source\\Repos\\Aaron-Starley-GCU\\CST-150-O500\\Activity4-AaronStarley\\Activity4-AaronStarley\\Activity4-AaronStarley.csproj",
+        "projectPath": "C:\\Users\\astar\\source\\repos\\Aaron-Starley-GCU\\CST-150-O500\\Activity4-AaronStarley\\Activity4-AaronStarley\\Activity4-AaronStarley.csproj",
         "packagesPath": "C:\\Users\\astar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\astar\\Source\\Repos\\Aaron-Starley-GCU\\CST-150-O500\\Activity4-AaronStarley\\Activity4-AaronStarley\\obj\\",
+        "outputPath": "C:\\Users\\astar\\source\\repos\\Aaron-Starley-GCU\\CST-150-O500\\Activity4-AaronStarley\\Activity4-AaronStarley\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\astar\\AppData\\Roaming\\NuGet\\NuGet.Config",
