@@ -1,0 +1,17 @@
+C:\Users\astar\source\repos\Activity8-AaronStarley\Activity8\bin\Debug\net6.0-windows\Activity8.exe
+C:\Users\astar\source\repos\Activity8-AaronStarley\Activity8\bin\Debug\net6.0-windows\Activity8.deps.json
+C:\Users\astar\source\repos\Activity8-AaronStarley\Activity8\bin\Debug\net6.0-windows\Activity8.runtimeconfig.json
+C:\Users\astar\source\repos\Activity8-AaronStarley\Activity8\bin\Debug\net6.0-windows\Activity8.dll
+C:\Users\astar\source\repos\Activity8-AaronStarley\Activity8\bin\Debug\net6.0-windows\Activity8.pdb
+C:\Users\astar\source\repos\Activity8-AaronStarley\Activity8\obj\Debug\net6.0-windows\Activity8.csproj.AssemblyReference.cache
+C:\Users\astar\source\repos\Activity8-AaronStarley\Activity8\obj\Debug\net6.0-windows\Activity8.Form1.resources
+C:\Users\astar\source\repos\Activity8-AaronStarley\Activity8\obj\Debug\net6.0-windows\Activity8.csproj.GenerateResource.cache
+C:\Users\astar\source\repos\Activity8-AaronStarley\Activity8\obj\Debug\net6.0-windows\Activity8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\astar\source\repos\Activity8-AaronStarley\Activity8\obj\Debug\net6.0-windows\Activity8.AssemblyInfoInputs.cache
+C:\Users\astar\source\repos\Activity8-AaronStarley\Activity8\obj\Debug\net6.0-windows\Activity8.AssemblyInfo.cs
+C:\Users\astar\source\repos\Activity8-AaronStarley\Activity8\obj\Debug\net6.0-windows\Activity8.csproj.CoreCompileInputs.cache
+C:\Users\astar\source\repos\Activity8-AaronStarley\Activity8\obj\Debug\net6.0-windows\Activity8.dll
+C:\Users\astar\source\repos\Activity8-AaronStarley\Activity8\obj\Debug\net6.0-windows\refint\Activity8.dll
+C:\Users\astar\source\repos\Activity8-AaronStarley\Activity8\obj\Debug\net6.0-windows\Activity8.pdb
+C:\Users\astar\source\repos\Activity8-AaronStarley\Activity8\obj\Debug\net6.0-windows\Activity8.genruntimeconfig.cache
+C:\Users\astar\source\repos\Activity8-AaronStarley\Activity8\obj\Debug\net6.0-windows\ref\Activity8.dll
