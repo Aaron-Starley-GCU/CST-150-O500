@@ -15,7 +15,6 @@ based on the UML and testing it. Once a user can interact with it I will
 worry more.
  */
 
-
 // See https://aka.ms/new-console-template for more information
 /*I don't like that Visual Studio does this ^
  * I'll have to find how to turn that "feature" off next time. */ 
