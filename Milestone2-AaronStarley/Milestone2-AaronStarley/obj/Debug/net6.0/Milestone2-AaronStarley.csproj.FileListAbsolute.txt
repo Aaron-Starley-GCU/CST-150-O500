@@ -1,0 +1,15 @@
+C:\Users\astar\source\repos\Milestone2-AaronStarley\Milestone2-AaronStarley\bin\Debug\net6.0\Milestone2-AaronStarley.exe
+C:\Users\astar\source\repos\Milestone2-AaronStarley\Milestone2-AaronStarley\bin\Debug\net6.0\Milestone2-AaronStarley.deps.json
+C:\Users\astar\source\repos\Milestone2-AaronStarley\Milestone2-AaronStarley\bin\Debug\net6.0\Milestone2-AaronStarley.runtimeconfig.json
+C:\Users\astar\source\repos\Milestone2-AaronStarley\Milestone2-AaronStarley\bin\Debug\net6.0\Milestone2-AaronStarley.dll
+C:\Users\astar\source\repos\Milestone2-AaronStarley\Milestone2-AaronStarley\bin\Debug\net6.0\Milestone2-AaronStarley.pdb
+C:\Users\astar\source\repos\Milestone2-AaronStarley\Milestone2-AaronStarley\obj\Debug\net6.0\Milestone2-AaronStarley.csproj.AssemblyReference.cache
+C:\Users\astar\source\repos\Milestone2-AaronStarley\Milestone2-AaronStarley\obj\Debug\net6.0\Milestone2-AaronStarley.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\astar\source\repos\Milestone2-AaronStarley\Milestone2-AaronStarley\obj\Debug\net6.0\Milestone2-AaronStarley.AssemblyInfoInputs.cache
+C:\Users\astar\source\repos\Milestone2-AaronStarley\Milestone2-AaronStarley\obj\Debug\net6.0\Milestone2-AaronStarley.AssemblyInfo.cs
+C:\Users\astar\source\repos\Milestone2-AaronStarley\Milestone2-AaronStarley\obj\Debug\net6.0\Milestone2-AaronStarley.csproj.CoreCompileInputs.cache
+C:\Users\astar\source\repos\Milestone2-AaronStarley\Milestone2-AaronStarley\obj\Debug\net6.0\Milestone2-AaronStarley.dll
+C:\Users\astar\source\repos\Milestone2-AaronStarley\Milestone2-AaronStarley\obj\Debug\net6.0\refint\Milestone2-AaronStarley.dll
+C:\Users\astar\source\repos\Milestone2-AaronStarley\Milestone2-AaronStarley\obj\Debug\net6.0\Milestone2-AaronStarley.pdb
+C:\Users\astar\source\repos\Milestone2-AaronStarley\Milestone2-AaronStarley\obj\Debug\net6.0\Milestone2-AaronStarley.genruntimeconfig.cache
+C:\Users\astar\source\repos\Milestone2-AaronStarley\Milestone2-AaronStarley\obj\Debug\net6.0\ref\Milestone2-AaronStarley.dll
