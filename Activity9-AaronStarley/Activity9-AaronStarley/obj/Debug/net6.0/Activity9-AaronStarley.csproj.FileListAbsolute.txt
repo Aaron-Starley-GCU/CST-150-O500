@@ -1,0 +1,15 @@
+C:\Users\astar\source\repos\Activity9-AaronStarley\Activity9-AaronStarley\bin\Debug\net6.0\Activity9-AaronStarley.exe
+C:\Users\astar\source\repos\Activity9-AaronStarley\Activity9-AaronStarley\bin\Debug\net6.0\Activity9-AaronStarley.deps.json
+C:\Users\astar\source\repos\Activity9-AaronStarley\Activity9-AaronStarley\bin\Debug\net6.0\Activity9-AaronStarley.runtimeconfig.json
+C:\Users\astar\source\repos\Activity9-AaronStarley\Activity9-AaronStarley\bin\Debug\net6.0\Activity9-AaronStarley.dll
+C:\Users\astar\source\repos\Activity9-AaronStarley\Activity9-AaronStarley\bin\Debug\net6.0\Activity9-AaronStarley.pdb
+C:\Users\astar\source\repos\Activity9-AaronStarley\Activity9-AaronStarley\obj\Debug\net6.0\Activity9-AaronStarley.csproj.AssemblyReference.cache
+C:\Users\astar\source\repos\Activity9-AaronStarley\Activity9-AaronStarley\obj\Debug\net6.0\Activity9-AaronStarley.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\astar\source\repos\Activity9-AaronStarley\Activity9-AaronStarley\obj\Debug\net6.0\Activity9-AaronStarley.AssemblyInfoInputs.cache
+C:\Users\astar\source\repos\Activity9-AaronStarley\Activity9-AaronStarley\obj\Debug\net6.0\Activity9-AaronStarley.AssemblyInfo.cs
+C:\Users\astar\source\repos\Activity9-AaronStarley\Activity9-AaronStarley\obj\Debug\net6.0\Activity9-AaronStarley.csproj.CoreCompileInputs.cache
+C:\Users\astar\source\repos\Activity9-AaronStarley\Activity9-AaronStarley\obj\Debug\net6.0\Activity9-AaronStarley.dll
+C:\Users\astar\source\repos\Activity9-AaronStarley\Activity9-AaronStarley\obj\Debug\net6.0\refint\Activity9-AaronStarley.dll
+C:\Users\astar\source\repos\Activity9-AaronStarley\Activity9-AaronStarley\obj\Debug\net6.0\Activity9-AaronStarley.pdb
+C:\Users\astar\source\repos\Activity9-AaronStarley\Activity9-AaronStarley\obj\Debug\net6.0\Activity9-AaronStarley.genruntimeconfig.cache
+C:\Users\astar\source\repos\Activity9-AaronStarley\Activity9-AaronStarley\obj\Debug\net6.0\ref\Activity9-AaronStarley.dll
