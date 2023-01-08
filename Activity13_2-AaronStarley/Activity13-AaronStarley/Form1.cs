@@ -147,9 +147,10 @@ namespace Activity13_AaronStarley {
             } else { 
                 resultBox.Text = "O's Turn";
             }
+            if(turns == 9) resultBox.Text="Draw";
             if (oWins) resultBox.Text="O Wins!";
             if (xWins) resultBox.Text="X Wins!";
-            if(turns == 9) resultBox.Text="Draw";
+            
 
             button00.Text = System.Convert.ToString(board[0,0]);
             button01.Text = System.Convert.ToString(board[0,1]);
