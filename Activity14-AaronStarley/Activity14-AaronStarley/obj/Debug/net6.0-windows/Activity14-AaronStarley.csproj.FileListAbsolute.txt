@@ -1,0 +1,17 @@
+C:\Users\astar\source\repos\Activity14-AaronStarley\Activity14-AaronStarley\bin\Debug\net6.0-windows\Activity14-AaronStarley.exe
+C:\Users\astar\source\repos\Activity14-AaronStarley\Activity14-AaronStarley\bin\Debug\net6.0-windows\Activity14-AaronStarley.deps.json
+C:\Users\astar\source\repos\Activity14-AaronStarley\Activity14-AaronStarley\bin\Debug\net6.0-windows\Activity14-AaronStarley.runtimeconfig.json
+C:\Users\astar\source\repos\Activity14-AaronStarley\Activity14-AaronStarley\bin\Debug\net6.0-windows\Activity14-AaronStarley.dll
+C:\Users\astar\source\repos\Activity14-AaronStarley\Activity14-AaronStarley\bin\Debug\net6.0-windows\Activity14-AaronStarley.pdb
+C:\Users\astar\source\repos\Activity14-AaronStarley\Activity14-AaronStarley\obj\Debug\net6.0-windows\Activity14-AaronStarley.csproj.AssemblyReference.cache
+C:\Users\astar\source\repos\Activity14-AaronStarley\Activity14-AaronStarley\obj\Debug\net6.0-windows\Activity14_AaronStarley.Form1.resources
+C:\Users\astar\source\repos\Activity14-AaronStarley\Activity14-AaronStarley\obj\Debug\net6.0-windows\Activity14-AaronStarley.csproj.GenerateResource.cache
+C:\Users\astar\source\repos\Activity14-AaronStarley\Activity14-AaronStarley\obj\Debug\net6.0-windows\Activity14-AaronStarley.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\astar\source\repos\Activity14-AaronStarley\Activity14-AaronStarley\obj\Debug\net6.0-windows\Activity14-AaronStarley.AssemblyInfoInputs.cache
+C:\Users\astar\source\repos\Activity14-AaronStarley\Activity14-AaronStarley\obj\Debug\net6.0-windows\Activity14-AaronStarley.AssemblyInfo.cs
+C:\Users\astar\source\repos\Activity14-AaronStarley\Activity14-AaronStarley\obj\Debug\net6.0-windows\Activity14-AaronStarley.csproj.CoreCompileInputs.cache
+C:\Users\astar\source\repos\Activity14-AaronStarley\Activity14-AaronStarley\obj\Debug\net6.0-windows\Activity14-AaronStarley.dll
+C:\Users\astar\source\repos\Activity14-AaronStarley\Activity14-AaronStarley\obj\Debug\net6.0-windows\refint\Activity14-AaronStarley.dll
+C:\Users\astar\source\repos\Activity14-AaronStarley\Activity14-AaronStarley\obj\Debug\net6.0-windows\Activity14-AaronStarley.pdb
+C:\Users\astar\source\repos\Activity14-AaronStarley\Activity14-AaronStarley\obj\Debug\net6.0-windows\Activity14-AaronStarley.genruntimeconfig.cache
+C:\Users\astar\source\repos\Activity14-AaronStarley\Activity14-AaronStarley\obj\Debug\net6.0-windows\ref\Activity14-AaronStarley.dll
